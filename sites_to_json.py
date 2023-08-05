@@ -9,10 +9,11 @@ sheet = wb.active
 
 # Read data from spreadsheet
 data = []
-for row in sheet.iter_rows(min_row=2, values_only=True):  # min_row=2 to skip header
+for idx, row in enumerate(sheet.iter_rows(min_row=2, values_only=True)):  # min_row=2 to skip header
     customer_name, site_name, street, city, state, zip_code = row
     data.append(
         {
+            'SiteId': idx+1, 
             'SiteName': site_name, 
             'Street': street,
             'City': city,
@@ -20,6 +21,9 @@ for row in sheet.iter_rows(min_row=2, values_only=True):  # min_row=2 to skip he
             'ZipCode': zip_code,
             'CustomerName': customer_name
         })
+    
+    if idx > 50:
+        break
 
 # Write data to JSON file
 #with open('output.json', 'w') as f:
@@ -29,3 +33,5 @@ with open('output.json', 'w') as f:
     for record in data:
         f.write(json.dumps(record))
         f.write(',\n')
+
+
