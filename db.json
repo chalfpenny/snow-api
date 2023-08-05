@@ -14,22 +14,8 @@
     {"SiteId": 12, "SiteName": "Gwynedd Crossing Shopping Center", "Street": "1210 Bethlehem Pike", "City": "North Wales", "State": "PA", "ZipCode": "19436", "CustomerName": "Goodman"},
     {"SiteId": 13, "SiteName": "Maverick Main Line", "Street": "101 W City Line Ave", "City": "Bala Cynwyd", "State": "PA ", "ZipCode": "19004", "CustomerName": "Goodman"},
     {"SiteId": 14, "SiteName": "NBA DEVELOPEMENT", "Street": "2610 Moreland Rd", "City": "Willow Grove", "State": "PA", "ZipCode": "19090", "CustomerName": "Goodman"},
-    {"SiteId": 15, "SiteName": "PINEGOOD TROOPER, LP:", "Street": "2520 W Main St", "City": "Norristown", "State": "PA ", "ZipCode": "19403", "CustomerName": "Goodman"},
-    {"SiteId": 16, "SiteName": "Regency Square", "Street": "1025 Easton Rd", "City": "Willow Grove", "State": "PA", "ZipCode": "19090", "CustomerName": "Goodman"},
-    {"SiteId": 17, "SiteName": "Southmont/CVS (Norristown)", "Street": "1200 W Main St", "City": "Norristown", "State": "PA ", "ZipCode": "19401", "CustomerName": "Goodman"},
-    {"SiteId": 18, "SiteName": "WYNWOOD REALTY", "Street": "1065 Woodland Rd", "City": "Wyomissing", "State": "PA", "ZipCode": "19610", "CustomerName": "Goodman"},
-    {"SiteId": 19, "SiteName": "Upland Square", "Street": "321 Upland Square Dr", "City": "Pottstown", "State": "PA", "ZipCode": "19464", "CustomerName": "Hampshire"},
-    {"SiteId": 20, "SiteName": "1365 Lamberton Warehouse", "Street": "1365 Lamberton Rd", "City": "Hamilton Twp", "State": "NJ", "ZipCode": "08611", "CustomerName": "JLL"},
-    {"SiteId": 21, "SiteName": "Higher Rock", "Street": "1006 Bethlehem Pike", "City": "Montgomeryville", "State": "PA", "ZipCode": "18936", "CustomerName": "Kahn and Company"},
-    {"SiteId": 22, "SiteName": "Brandywine Village Shopping Center", "Street": "1257 Horseshoe Pike", "City": "Downingtown", "State": "PA", "ZipCode": "19355", "CustomerName": "Management Assistance Group"},
-    {"SiteId": 23, "SiteName": "Countyline Village Shopping Center", "Street": "116 Countyline Rd", "City": "Boyertown", "State": "PA", "ZipCode": "19512", "CustomerName": "Management Assistance Group"},
-    {"SiteId": 24, "SiteName": "1-6 Horne ", "Street": "1-6 Horne Dr", "City": "Folcroft", "State": "PA", "ZipCode": "19032", "CustomerName": "Merion"},
-    {"SiteId": 25, "SiteName": "9920 Bustleton", "Street": "9920 Bustleton Ave", "City": "Philadelphia", "State": "PA", "ZipCode": "19152", "CustomerName": "Merion"},
-    {"SiteId": 26, "SiteName": "Alliance/SONO Condo Assn", "Street": "456 N 5th St", "City": "Philadelphia", "State": "PA", "ZipCode": "19115", "CustomerName": "Merion"},
-    {"SiteId": 27, "SiteName": "Bells Corner", "Street": "8330 Bustleton Ave", "City": "Philadelphia", "State": "PA", "ZipCode": "19152", "CustomerName": "Merion"},
-    {"SiteId": 28, "SiteName": "Cambridge Square", "Street": "4811 Edgemont Ave", "City": "Brookhaven", "State": "PA", "ZipCode": "19015", "CustomerName": "Merion"},
-    {"SiteId": 29, "SiteName": "Quakertown Medical @ Quakertown Plaza", "Street": "1465 West Broad St", "City": "Quakertown", "State": "PA", "ZipCode": "18951", "CustomerName": "MRA Group"},
-    {"SiteId": 30, "SiteName": "Columbus Crossing", "Street": "1851 S COLUMBUS BLVD", "City": "Philadelphia", "State": "PA", "ZipCode": "19148", "CustomerName": "Paramount"}
+    {"SiteId": 15, "SiteName": "PINEGOOD TROOPER, LP:", "Street": "2520 W Main St", "City": "Norristown", "State": "PA ", "ZipCode": "19403", "CustomerName": "Goodman"}
+   
   ],
   "comments": [
     { "id": 1, "body": "first comment", "postId": 1 },
