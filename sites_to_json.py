@@ -22,7 +22,7 @@ for idx, row in enumerate(sheet.iter_rows(min_row=2, values_only=True)):  # min_
             'CustomerName': customer_name
         })
     
-    if idx = 30:
+    if idx == 30:
         break
 
 # Write data to JSON file
