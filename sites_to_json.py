@@ -18,7 +18,7 @@ for idx, row in enumerate(sheet.iter_rows(min_row=2, values_only=True)):  # min_
             'Street': street,
             'City': city,
             'State': state,
-            'ZipCode': zip_code,
+            'ZipCode': str(zip_code),
             'CustomerName': customer_name
         })
     
