@@ -13,7 +13,7 @@ for idx, row in enumerate(sheet.iter_rows(min_row=2, values_only=True)):  # min_
     customer_name, site_name, street, city, state, zip_code = row
     data.append(
         {
-            'SiteId': idx+1, 
+            'id': idx+1, 
             'SiteName': site_name, 
             'Street': street,
             'City': city,
