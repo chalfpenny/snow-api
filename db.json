@@ -15,7 +15,6 @@
     {"SiteId": 13, "SiteName": "Maverick Main Line", "Street": "101 W City Line Ave", "City": "Bala Cynwyd", "State": "PA ", "ZipCode": "19004", "CustomerName": "Goodman"},
     {"SiteId": 14, "SiteName": "NBA DEVELOPEMENT", "Street": "2610 Moreland Rd", "City": "Willow Grove", "State": "PA", "ZipCode": "19090", "CustomerName": "Goodman"},
     {"SiteId": 15, "SiteName": "PINEGOOD TROOPER, LP:", "Street": "2520 W Main St", "City": "Norristown", "State": "PA ", "ZipCode": "19403", "CustomerName": "Goodman"}
-   
   ],
   "comments": [
     { "id": 1, "body": "first comment", "postId": 1 },
