@@ -29,8 +29,7 @@
     {"SiteId": 27, "SiteName": "Bells Corner", "Street": "8330 Bustleton Ave", "City": "Philadelphia", "State": "PA", "ZipCode": "19152", "CustomerName": "Merion"},
     {"SiteId": 28, "SiteName": "Cambridge Square", "Street": "4811 Edgemont Ave", "City": "Brookhaven", "State": "PA", "ZipCode": "19015", "CustomerName": "Merion"},
     {"SiteId": 29, "SiteName": "Quakertown Medical @ Quakertown Plaza", "Street": "1465 West Broad St", "City": "Quakertown", "State": "PA", "ZipCode": "18951", "CustomerName": "MRA Group"},
-    {"SiteId": 30, "SiteName": "Columbus Crossing", "Street": "1851 S COLUMBUS BLVD", "City": "Philadelphia", "State": "PA", "ZipCode": "19148", "CustomerName": "Paramount"},
-    {"SiteId": 31, "SiteName": "Noble Towne Center", "Street": "901 Old York Rd", "City": "Jenkintown", "State": "PA", "ZipCode": "19046", "CustomerName": "Paramount"}
+    {"SiteId": 30, "SiteName": "Columbus Crossing", "Street": "1851 S COLUMBUS BLVD", "City": "Philadelphia", "State": "PA", "ZipCode": "19148", "CustomerName": "Paramount"}
   ],
   "comments": [
     { "id": 1, "body": "first comment", "postId": 1 },
@@ -39,5 +38,5 @@
   "profile": {
     "name": "typicode"
   }
-  
+
 }
